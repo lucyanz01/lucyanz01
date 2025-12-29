@@ -1,11 +1,11 @@
-## Here, Lucy ➤
+## Here, Lucy
 
 ### Junior Full Stack Developer  | Frontend in progress 
 I'm a junior programmer with **2 years of experience learning and building with Python**. Currently specializing in **Backend and Frontend tools** to develop complete and scalable web applications. Working on personal projects to show and develop skills.
 
 ---
 
-### My Stack ⚡️
+### Tech Stack 
 - **Core:** Python/JSON/JavaScript
 - **Environment:** Linux (Debian/Ubuntu), Bash, Git
 - **Web and API:** Flask, MariaDB, HTML5, CSS, Basic JavaScript. Postman for testing.
