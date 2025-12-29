@@ -14,7 +14,7 @@ I'm a junior programmer with **2 years of experience learning and building with 
 ---
 
 ### Interests
-- **Tech:** I'm a huge fan of everything tech-related, always exploring and reading about tools and sotware.
+- **Tech:** I'm a huge fan of everything tech-related, always exploring and reading about tools and software.
 - **Linux:** I'm a dedicated Linux user who loves terminal environments, shell scripting, and deep diving into system configurations.
 
 
