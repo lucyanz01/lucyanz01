@@ -10,4 +10,4 @@ I focus on creating secure APIs, handling authentication with JWT, and hashing p
 
 ### Tech stack
 
-![Tech Stack](https://skillicons.dev/icons?i=python,flask,postgres,mariadb,linux,git,bash)
+![Tech Stack](https://skillicons.dev/icons?i=python,flask,postgres,mariadb,linux,git,bash&perline=7)
