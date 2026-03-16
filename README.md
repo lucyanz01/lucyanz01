@@ -1,20 +1,11 @@
-## Here, Lucy
+## Hi, I'm Lucy 👋
 
-### Junior Full Stack Developer  | Frontend in progress 
-I'm a junior programmer with **2 years of experience learning and building with Python**. Currently specializing in **Backend and Frontend tools** to develop complete and scalable web applications. Working on personal projects to show and develop skills.
+Backend developer passionate about security, encryption, and building robust systems. I work with Python, Flask, and SQLAlchemy, using MariaDB and PostgreSQL as my go-to databases.
 
----
-
-### Tech Stack 
-- **Core:** Python/JSON/JavaScript
-- **Environment:** Linux (Debian/Ubuntu), Bash, Git
-- **Web and API:** Flask, MariaDB, HTML5, CSS, Basic JavaScript. Postman for testing.
-- **Learning:** Studying modern Frontend tools to complete with my Backend logic.
+I focus on creating secure APIs, handling authentication with JWT, and hashing passwords with bcrypt — always prioritizing clean and maintainable code.
 
 ---
 
-### Interests
-- **Tech:** I'm a huge fan of everything tech-related, always exploring and reading about tools and software.
-- **Linux:** I'm a dedicated Linux user who loves terminal environments, shell scripting, and deep diving into system configurations.
+### Tech stack
 
-
+![Tech Stack](https://skillicons.dev/icons?i=python,flask,postgres,mariadb,linux,git,bash&theme=dark)
