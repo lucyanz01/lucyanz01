@@ -2,10 +2,10 @@
 
 ### About me
 
-Backend developer passionate about security, encryption, and building robust systems. I work with Python, Flask, and SQLAlchemy, using MariaDB and PostgreSQL as my go-to databases.
+I'm a student interested in linux, backend development and software engineering.
+Currently learning Bash, Linux, Python and system fundamentals.
 
-I focus on creating secure APIs, handling authentication with JWT, and hashing passwords with bcrypt — always prioritizing clean and maintainable code.
-
+I use GitHub to document projects and things I learn.
 ---
 
 ### Tech stack
